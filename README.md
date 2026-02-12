@@ -8,6 +8,21 @@ The application integrates a trained Ridge Regression model with a web interface
 
 ---
 
+---
+
+## 🎥 Demo Video
+
+Watch the complete project demonstration below:
+
+
+
+https://github.com/user-attachments/assets/5c7e6b59-8b5e-491f-89ca-53f91065459b
+
+
+
+
+
+
 ## Tech Stack
 
 - Python
